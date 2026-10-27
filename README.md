@@ -1,4 +1,4 @@
-##Hi, I'm Ariane 👋
+**Hi, I'm Ariane 👋**
 
 Master's student in Molecular and Biological Chemistry at EPFL (Lausanne).
 
